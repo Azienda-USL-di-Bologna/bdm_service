@@ -1,0 +1,5 @@
+syntax: glob
+target
+nb-configuration.xml
+nbactions.xml
+src/main/resources/star.internal.ausl.bologna.it.p12
